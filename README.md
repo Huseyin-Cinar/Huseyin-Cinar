@@ -2,7 +2,13 @@
 
 
 Burası **Huseyin-Cinar/Huseyin-Cinar** Bir ✨ _Özel_ ✨ Deposudur.
-
+___________________________________________________________________
+Buraya Kural Koymayı Gerçekten İstemezdim Ama Buna Mecbur Kaldım...
+- **1.Kural Bana Discorddaki Herhangi Bir Yerde** `knk` , `amk` , `dostum` **Gibi Samimi Kelimeler Kullanmak Yasaktır!!!** 
+- **2.Kural Discord Botlarımı Kendiniz Yapmış Gibi Göstermek Yasaktır!!!**
+- **3.Kural Discord Sunucumda** `Şaklabanlık` , `Cıvıklık` **Gibi Şeyler Yapmak Yasaktır!!!**
+- **4.Kural Eğer Önemli Ve Geçerli Bir Sebebiniz Yoksa Bana Arkadaşlık İsteği Atmayın Kabul Etmem!!!**
+___________________________________________________________________
 Şu Anda Yaptığım Bazı Şeyler;
 
 - 🔭 Evden Çalışıyorum ...
