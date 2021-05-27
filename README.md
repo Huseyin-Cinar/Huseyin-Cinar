@@ -1,4 +1,4 @@
-### Selam Dostum Ben Hüseyin Diğer Adıyla 𝕭𝖑𝖆𝖈𝖐 𝕯𝖊𝖆𝖙𝖍#3957 👋
+### Selam Ben Hüseyin Diğer Adıyla 𝕭𝖑𝖆𝖈𝖐 𝕯𝖊𝖆𝖙𝖍#3957 👋
 
 
 Burası **Huseyin-Cinar/Huseyin-Cinar** Bir ✨ _Özel_ ✨ Deposudur.
