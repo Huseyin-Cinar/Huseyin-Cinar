@@ -25,3 +25,6 @@ ___________________________________________________________________
 - <a href="https://www.youtube.com/channel/UCHMf4qpv2a1xO0pfm4cshMQ/featured" target="_blank">YouTube Kanalım</a>
 - <a href="https://prohtmlcod.tr.gg/" target="_blank">HTML Kod Paylaşım Sitem</a>
 - <a href="https://procsscod.tr.gg/" target="_blank">CSS Kod Paylaşım Sitem</a>
+body {
+   background-image: url("https://lh3.googleusercontent.com/UXnItcsqv5NT1itimLa4EoMCK7jH7udFP998NZ0KUwV8RTlh_Y_T-yOXW-AMMWdmNv5l7-w=s85");
+}
