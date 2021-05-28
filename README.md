@@ -4,7 +4,7 @@
 Burası **Huseyin-Cinar/Huseyin-Cinar** Bir ✨ _Özel_ ✨ Deposudur.
 ___________________________________________________________________
 Buraya Kural Koymayı Gerçekten İstemezdim Ama Buna Mecbur Kaldım...
-- :no_entry_sign: **1.Kural Bana Discorddaki Herhangi Bir Yerde** `knk` , `amk` , `dostum` **Gibi Samimi Kelimeler Kullanmak Yasaktır**:bangbang:
+- :no_entry_sign: **1.Kural Bana Discord'daki Herhangi Bir Yerde** `knk` , `amk` , `dostum` **Gibi Samimi Kelimeler Kullanmak Yasaktır**:bangbang:
 - :no_entry_sign: **2.Kural Discord Botlarımı Kendiniz Yapmış Gibi Göstermek Yasaktır**:bangbang:
 - :no_entry_sign: **3.Kural Discord Sunucumda** `Şaklabanlık` , `Cıvıklık` **Gibi Şeyler Yapmak Yasaktır**:bangbang:
 - :no_entry_sign: **4.Kural Eğer Önemli Ve Geçerli Bir Sebebiniz Yoksa Bana Arkadaşlık İsteği Atmayın Kabul Etmem**:bangbang:
