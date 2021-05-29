@@ -1,7 +1,7 @@
 ### Selam Ben Hüseyin Diğer Adıyla 𝕭𝖑𝖆𝖈𝖐 𝕯𝖊𝖆𝖙𝖍#3957 👋
 
 
-Burası **Huseyin-Cinar/Huseyin-Cinar** Bir ✨ _Özel_ ✨ Deposudur.
+Burası **Hüseyin Çınar'ın** Bir ✨ _Tanıtım_ ✨ Deposudur.
 ___________________________________________________________________
 Buraya Kural Koymayı Gerçekten İstemezdim Ama Buna Mecbur Kaldım...
 - :no_entry_sign: **1.Kural Bana Discord'daki Herhangi Bir Yerde** `knk` , `amk` , `dostum` **Gibi Samimi Kelimeler Kullanmak Yasaktır**:bangbang:
