@@ -20,6 +20,7 @@ ___________________________________________________________________
 - 😄 Güvenli.
 - ⚡ Ve Hızlı Bir Şekilde...
 - 💬 **Bağlantılarım;**
+- <a href="https://futuree.netlify.app" target="_blank">Yeni Sitem</a>
 - <a href="https://www.sites.google.com/view/the-hsyn-world/ana-sayfa" target="_blank">Web Sitem</a>
 - <a href="https://discord.gg/sJScP9NQZC" target="_blank">Discord Sunucum Özellikle Gelmeni Bekliyorum</a>
 - <a href="https://www.youtube.com/channel/UCHMf4qpv2a1xO0pfm4cshMQ/featured" target="_blank">YouTube Kanalım</a>
