@@ -2,6 +2,10 @@
 
 
 
+<CENTER><img src="https://lanyard-profile-readme.vercel.app/api/782246367204605953"></img></CENTER>
+
+
+
 Burası **Hüseyin Çınar'ın** Bir ✨ _Tanıtım_ ✨ Deposudur.
 ___________________________________________________________________
 Buraya Kural Koymayı Gerçekten İstemezdim Ama Buna Mecbur Kaldım...
@@ -27,6 +31,3 @@ ___________________________________________________________________
 - <a href="https://www.youtube.com/channel/UCHMf4qpv2a1xO0pfm4cshMQ/featured" target="_blank">YouTube Kanalım</a>
 - <a href="https://prohtmlcod.tr.gg/" target="_blank">HTML Kod Paylaşım Sitem</a>
 - <a href="https://procsscod.tr.gg/" target="_blank">CSS Kod Paylaşım Sitem</a>
-
-
- - <img src="https://lanyard-profile-readme.vercel.app/api/782246367204605953"></img>
