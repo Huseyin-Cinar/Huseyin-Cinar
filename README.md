@@ -2,7 +2,7 @@
 
 
 
-<div style="text-align: center;"><img src="https://lanyard-profile-readme.vercel.app/api/782246367204605953"></img></div>
+<div style="text-align: center;"><a href="https://futuree.netlify.app"><img src="https://lanyard-profile-readme.vercel.app/api/782246367204605953"></img><a/></div>
 
 
 
