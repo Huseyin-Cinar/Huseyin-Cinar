@@ -2,7 +2,7 @@
 
 
 
-<CENTER><img src="https://lanyard-profile-readme.vercel.app/api/782246367204605953"></img></CENTER>
+<div style="text-align: center;"><img src="https://lanyard-profile-readme.vercel.app/api/782246367204605953"></img></div>
 
 
 
