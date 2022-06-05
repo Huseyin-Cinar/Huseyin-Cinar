@@ -1,4 +1,4 @@
-### Selam Ben Hüseyin Diğer Adıyla 𝕭𝖑𝖆𝖈𝖐 𝕯𝖊𝖆𝖙𝖍#3957 👋
+### Selam Ben Hüseyin Diğer Adıyla Black Death#3957 👋
 
 
 Burası **Hüseyin Çınar'ın** Bir ✨ _Tanıtım_ ✨ Deposudur.
