@@ -22,7 +22,7 @@ ___________________________________________________________________
 - 💬 **Bağlantılarım;**
 - <a href="https://futuree.netlify.app" target="_blank">Yeni Sitem</a>
 - <a href="https://www.sites.google.com/view/the-hsyn-world/ana-sayfa" target="_blank">Web Sitem</a>
-- <a href="https://discord.gg/sJScP9NQZC" target="_blank">Discord Sunucum Özellikle Gelmeni Bekliyorum</a>
+- <a href="https://futuree.netlify.app/dc" target="_blank">Discord Sunucum Özellikle Gelmeni Bekliyorum</a>
 - <a href="https://www.youtube.com/channel/UCHMf4qpv2a1xO0pfm4cshMQ/featured" target="_blank">YouTube Kanalım</a>
 - <a href="https://prohtmlcod.tr.gg/" target="_blank">HTML Kod Paylaşım Sitem</a>
 - <a href="https://procsscod.tr.gg/" target="_blank">CSS Kod Paylaşım Sitem</a>
