@@ -29,3 +29,10 @@ ___________________________________________________________________
 
 
 <div style="text-align: center;" title="Discord Profile"><a href="https://futuree.netlify.app"><img src="https://lanyard-profile-readme.vercel.app/api/782246367204605953"></img><a/></div>
+
+<style>
+  .textis {
+  color:red;
+  }
+</style>
+<div class="textis">selam</div>
