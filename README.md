@@ -26,7 +26,7 @@ ___________________________________________________________________
 - <a href="https://www.youtube.com/channel/UCHMf4qpv2a1xO0pfm4cshMQ/featured" target="_blank">YouTube Kanalım</a>
 - <a href="https://prohtmlcod.tr.gg/" target="_blank">HTML Kod Paylaşım Sitem</a>
 - <a href="https://procsscod.tr.gg/" target="_blank">CSS Kod Paylaşım Sitem</a>
-
+<hr>
 <details align="center" close>
   <summary>Discord Profilim</summary>
 <div style="text-align: center;" title="Discord Profile"><a href="https://futuree.netlify.app"><img src="https://lanyard-profile-readme.vercel.app/api/782246367204605953"></img><a/></div><br>
@@ -38,7 +38,7 @@ ___________________________________________________________________
 <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&amp;layout=compact&amp;theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&amp;layout=compact&amp;theme=tokyonight" width="%100" height="150px" alt="stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&amp;theme=nord"><img src="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&amp;theme=nord" width="%100" height="150px" alt="stats" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&amp;theme=nord" style="max-width: 100%;"></a>
 </details>
-
+<hr>
 
 ### <h1>Sosyal Mekanlar</h1>
 <br>
