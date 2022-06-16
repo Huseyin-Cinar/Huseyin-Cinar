@@ -28,7 +28,9 @@ ___________________________________________________________________
 - <a href="https://procsscod.tr.gg/" target="_blank">CSS Kod Paylaşım Sitem</a>
 
 
-<div style="text-align: center;" title="Discord Profile"><a href="https://futuree.netlify.app"><img src="https://lanyard-profile-readme.vercel.app/api/782246367204605953"></img><a/></div>
+<div style="text-align: center;" title="Discord Profile"><a href="https://futuree.netlify.app"><img src="https://lanyard-profile-readme.vercel.app/api/782246367204605953"></img><a/></div><br>
 
-<img width="180px" height="20px" src="https://komarev.com/ghpvc/?username=Huseyin-Cinar&color=green&style=plastic&label=Ziyaretçi+Sayısı">
+### <h1>Sosyal Mekanlar</h1>
+<br>
+<img width="150px" height="25px" src="https://komarev.com/ghpvc/?username=Huseyin-Cinar&color=green&style=plastic&label=Ziyaretçi+Sayısı">
 
