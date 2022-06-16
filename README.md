@@ -30,5 +30,5 @@ ___________________________________________________________________
 
 <div style="text-align: center;" title="Discord Profile"><a href="https://futuree.netlify.app"><img src="https://lanyard-profile-readme.vercel.app/api/782246367204605953"></img><a/></div>
 
-<img width="130px" height="30px" src="https://komarev.com/ghpvc/?username=Huseyin-Cinar&color=green&style=plastic&label=Ziyaretçi+Sayısı">
+<img width="150px" height="30px" src="https://komarev.com/ghpvc/?username=Huseyin-Cinar&color=green&style=plastic&label=Ziyaretçi+Sayısı">
 
