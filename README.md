@@ -28,8 +28,8 @@ ___________________________________________________________________
 - <a href="https://procsscod.tr.gg/" target="_blank">CSS Kod Paylaşım Sitem</a>
 
 
-<div style="text-align: center;" title="Discord Profile"><a href="https://futuree.netlify.app"><img src="https://lanyard-profile-readme.vercel.app/api/782246367204605953"></img><a/></div><br>
-<div style="text-align: center;" title="Discord Profile"><a href="https://futuree.netlify.app"><img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&theme=merko"></img><a/></div><br>
+<CENTER><div style="text-align: center;" title="Discord Profile"><a href="https://futuree.netlify.app"><img src="https://lanyard-profile-readme.vercel.app/api/782246367204605953"></img><a/></div><br>
+<div style="text-align:center;display:none;" title="Github Stats"><a href="https://futuree.netlify.app"><img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&theme=merko"></img><a/></div><br></CENTER>
 
 
 ### <h1>Sosyal Mekanlar</h1>
