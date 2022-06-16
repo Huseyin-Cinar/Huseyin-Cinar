@@ -29,5 +29,6 @@ ___________________________________________________________________
 
 
 <div style="text-align: center;" title="Discord Profile"><a href="https://futuree.netlify.app"><img src="https://lanyard-profile-readme.vercel.app/api/782246367204605953"></img><a/></div>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9b7b49f4058a276abf8a5609abac8be71874f0bed3e9e79d2e636ae0268f8160/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d456d697268616e5361726163266c6162656c3d5a6979617265742543332541376926636f6c6f723d356631336539"><img src="https://camo.githubusercontent.com/9b7b49f4058a276abf8a5609abac8be71874f0bed3e9e79d2e636ae0268f8160/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d456d697268616e5361726163266c6162656c3d5a6979617265742543332541376926636f6c6f723d356631336539" data-canonical-src="https://komarev.com/ghpvc/?username=Huseyin-Cinar&amp;label=Ziyaret%C3%A7i&amp;color=5f13e9" style="max-width: 100%;"></a>
+
+[](https://komarev.com/ghpvc/?username=Huseyin-Cinar&label=Ziyaretçi+Sayısı)
 
