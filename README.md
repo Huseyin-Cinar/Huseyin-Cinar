@@ -33,7 +33,9 @@ ___________________________________________________________________
 <!--<div style="text-align:center;display:none;" title="Github Stats"><a href="https://futuree.netlify.app"><img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&theme=merko"></img><a/></div><br></CENTER>--></details>
 <hr>
   <details align="center" close>
-    <summary>Github İstatistiklerim</summary><a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&count_private=true&amp;layout=compact&amp;theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&count_private=true&amp;layout=compact&amp;theme=tokyonight" width="%100" height="150px" alt="stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&count_private=true&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;"></a>
+    <summary>Github İstatistiklerim</summary>
+  <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&count_private=true&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&count_private=true&theme=tokyonight" width="%100" height="150px" alt="stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&count_private=true&theme=tokyonight" style="max-width: 100%;"></a>
+  
 <a target="_blank" rel="noopener noreferrer" href="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&count_private=true&amp;theme=nord"><img src="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&count_private=true&amp;theme=nord" width="%100" height="150px" alt="stats" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&count_private=true&amp;theme=nord" style="max-width: 100%;"></a>
 </details>
 <hr>
