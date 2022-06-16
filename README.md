@@ -32,5 +32,5 @@ ___________________________________________________________________
 
 ### <h1>Sosyal Mekanlar</h1>
 <br>
-<img width="150px" height="25px" src="https://komarev.com/ghpvc/?username=Huseyin-Cinar&color=green&style=plastic&label=Ziyaretçi+Sayısı">
+<img width="150px" height="25px" src="https://komarev.com/ghpvc/?username=Huseyin-Cinar&color=blue&style=plastic&label=Ziyaretçi+Sayısı">
 
