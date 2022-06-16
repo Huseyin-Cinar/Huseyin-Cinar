@@ -13,7 +13,7 @@ ___________________________________________________________________
 
 - 🏠 Evden Çalışıyorum.
 - 🤖 Discord Botu Yapmayı Talihsiz Bir Kaza Yüzünden Bıraktım Ama İsteyenlere Hala Yapıyorum.
-- 🖥️ Şu Anda İse Web Yazılımcılığı Yapıyorum(HTML,CSS,Javascript).
+- 🖥️ Şu Anda İse Web Kodlayıcılığı Yapıyorum(HTML,CSS,Javascript).
 - 🤔 Yardıma İhtiyacın Var Gibi Gözüküyor.
 - 💬 Bana gslicocuk8080@gmail.com Veya gslicocuk8080@yaani.com'dan Sorularını Sor.
 - 📫 Bende Sorunlarına Çözüm Bulayım.
