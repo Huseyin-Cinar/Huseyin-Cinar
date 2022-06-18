@@ -33,7 +33,7 @@ ___________________________________________________________________
 <!--<div style="text-align:center;display:none;" title="Github Stats"><a href="https://futuree.netlify.app"><img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&theme=merko"></img><a/></div><br></CENTER>--></details>
 <hr>
   
-  <details align="center" open="">
+  <details align="center" close>
   <summary>GitHub İstatistiklerim</summary>
 <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&count_private=true&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&count_private=true&theme=tokyonight" width="%100" height="150px" alt="stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&count_private=true&theme=tokyonight" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=tokyonight&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=tokyonight&count_private=true" width="%100" height="150px" alt="stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=tokyonight&count_private=true" style="max-width: 100%;"></a>
