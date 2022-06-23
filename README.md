@@ -9,31 +9,30 @@ Buraya Kural Koymayı Gerçekten İstemezdim Ama Buna Mecbur Kaldım...
 - :no_entry_sign: **3.Kural Discord Sunucumda** `Şaklabanlık` , `Cıvıklık` **Gibi Şeyler Yapmak Yasaktır**:bangbang:
 - :no_entry_sign: **4.Kural Eğer Önemli Ve Geçerli Bir Sebebiniz Yoksa Bana Arkadaşlık İsteği Atmayın Kabul Etmem**:bangbang:-->
 ___________________________________________________________________
-Şu Anda Yaptığım Bazı Şeyler;
+Şu anda yaptığım bazı şeyler;
 
-- 🏠 Evden Çalışıyorum.
-- 🤖 Discord Botu Yapmayı Talihsiz Bir Kaza Yüzünden Bıraktım Ama İsteyenlere Hala Yapıyorum.
-- 🖥️ Şu Anda İse Web Kodlayıcılığı Yapıyorum(HTML,CSS,Javascript).
-- 🤔 Yardıma İhtiyacın Var Gibi Gözüküyor.
-- 💬 Bana gslicocuk8080@gmail.com Veya gslicocuk8080@yaani.com'dan Sorularını Sor.
-- 📫 Bende Sorunlarına Çözüm Bulayım.
-- 😄 Güvenli.
-- ⚡ Ve Hızlı Bir Şekilde...
+- 🏠 Evden çalışıyorum,
+- 🤖 Discord botu yapmayı talihsiz bir kaza yüzünden bıraktım ama isteyenlere hala yapıyorum,
+- 🖥️ Şu anda ise web kodlayıcılığı yapıyorum (HTML,CSS,Javascript),
+- 🤔 Yardıma ihtiyacın var gibi gözüküyor,
+- 💬 Bana gslicocuk8080@gmail.com veya gslicocuk8080@yaani.com'dan sorularını sor,
+- 📫 Bende sorunlarına çözüm bulayım,
+- 😄 güvenli,
+- ⚡ Ve hızlı bir şekilde...
 - 💬 **Bağlantılarım;**
-- <a href="https://futuree.netlify.app" target="_blank">Yeni Sitem</a>
+- <a href="https://futuree.netlify.app" target="_blank">Web Sitem (The Future)</a>
 - <a href="https://www.sites.google.com/view/the-hsyn-world/ana-sayfa" target="_blank">Web Sitem</a>
-- <a href="https://futuree.netlify.app/dc" target="_blank">Discord Sunucum Özellikle Gelmeni Bekliyorum</a>
-- <a href="https://www.youtube.com/channel/UCHMf4qpv2a1xO0pfm4cshMQ/featured" target="_blank">YouTube Kanalım</a>
+- <a href="https://futuree.netlify.app/dc" target="_blank">Discord Sunucum</a>
 - <a href="https://prohtmlcod.tr.gg/" target="_blank">HTML Kod Paylaşım Sitem</a>
 - <a href="https://procsscod.tr.gg/" target="_blank">CSS Kod Paylaşım Sitem</a>
 <hr>
-<details align="center" close>
+<details align="center" open>
   <summary>Discord Profilim</summary>
 <div style="text-align: center;" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/782246367204605953?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=herhangi%20birşey%20yapmıyorum!"></img><a/></div><br>
 <!--<div style="text-align:center;display:none;" title="Github Stats"><a href="https://futuree.netlify.app"><img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&theme=merko"></img><a/></div><br></CENTER>--></details>
 <hr>
   
-  <details align="center" close>
+  <details align="center" open>
   <summary>GitHub İstatistiklerim</summary>
 <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=merko"><img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=merko" width="%100" height="150px" alt="stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=merko" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=merko&count_private=true"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=merko&count_private=true" width="%100" height="150px" alt="stats" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=merko&count_private=true" style="max-width: 100%;"></a>
