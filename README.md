@@ -15,7 +15,7 @@ ___________________________________________________________________
 - 🤖 Discord botu yapmayı talihsiz bir kaza yüzünden bıraktım ama isteyenlere hala yapıyorum,
 - 🖥️ Şu anda ise web kodlayıcılığı yapıyorum (HTML,CSS,Javascript),
 - 🤔 Yardıma ihtiyacın var gibi gözüküyor,
-- 💬 Bana gslicocuk8080@gmail.com veya gslicocuk8080@yaani.com'dan sorularını sor,
+- 💬 Bana huseyinncinar0@gmail.com'dan sorularını sor,
 - 📫 Bende sorunlarına çözüm bulayım,
 - 😄 güvenli,
 - ⚡ Ve hızlı bir şekilde...
