@@ -2,6 +2,11 @@
 
 
 Burası **Hüseyin Çınar'ın** Bir ✨ _Tanıtım_ ✨ Deposudur.
+
+<details align="center" open>
+  <summary>Profile Views</summary>
+  <a align="center" target="_blank" rel="noopener noreferrer" href="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru"><img src="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru" width="500px" alt="Hüseyin" data-canonical-src="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru" style="max-width: 100%;"></a></details>
+
 ___________________________________________________________________
 Şu anda yaptığım bazı şeyler;
 
@@ -40,5 +45,5 @@ ___________________________________________________________________
 
 ### <h1>Sosyal Mekanlar</h1>
 <br>
-<img width="150px" height="25px" src="https://komarev.com/ghpvc/?username=Huseyin-Cinar&color=blue&style=plastic&label=Ziyaretçi+Sayısı"> <img width="150px" height="30px" src="https://img.shields.io/github/followers/Huseyin-Cinar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=TakipEt">
+<!--<img width="150px" height="25px" src="https://komarev.com/ghpvc/?username=Huseyin-Cinar&color=blue&style=plastic&label=Ziyaretçi+Sayısı">--> <img width="150px" height="30px" src="https://img.shields.io/github/followers/Huseyin-Cinar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=TakipEt">
 <img width="150px" height="30px" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC6TBeSGerkaoAtvzN8l3L7A?style=social">
