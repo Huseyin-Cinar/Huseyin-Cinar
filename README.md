@@ -5,7 +5,7 @@ Burası **Hüseyin Çınar'ın** Bir ✨ _Tanıtım_ ✨ Deposudur.
 
 <details align="center" open>
   <summary>Profile Views</summary>
-  <a align="center" target="_blank" rel="noopener noreferrer" href="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru"><img src="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru" width="500px" alt="Hüseyin" data-canonical-src="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru" style="max-width: 100%;"></a></details>
+  <a align="center" target="_blank" rel="noopener noreferrer" href="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru"><img src="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru" width="400px" alt="Hüseyin" data-canonical-src="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru" style="max-width: 100%;"></a></details>
 
 ___________________________________________________________________
 Şu anda yaptığım bazı şeyler;
