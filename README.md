@@ -11,12 +11,12 @@ ___________________________________________________________________
 Şu anda yaptığım bazı şeyler;
 
 - 🏠 Evden çalışıyorum,
-- 🤖 Discord botu yapmayı talihsiz bir kaza yüzünden bıraktım ama isteyenlere hala yapıyorum,
+- 🤖 Discord botu yapmayı bıraktım ama özel isteklere hala yapıyorum,
 - 🖥️ Şu anda ise web kodlayıcılığı yapıyorum (HTML,CSS,Javascript),
 - 🤔 Yardıma ihtiyacın var gibi gözüküyor,
 - 💬 Bana huseyinncinar0@gmail.com'dan sorularını sor,
 - 📫 Bende sorunlarına çözüm bulayım,
-- 😄 güvenli,
+- 😄 Güvenli,
 - ⚡ Ve hızlı bir şekilde...
 - 💬 **Bağlantılarım;**
 - <a href="https://futuree.netlify.app" target="_blank">Web Sitem (The Future)</a>
