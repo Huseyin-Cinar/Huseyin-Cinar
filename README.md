@@ -13,7 +13,7 @@ ___________________________________________________________________
    - 🤖 Discord botu yapmayı bıraktım ama özel isteklere hala yapıyorum,
    - 🖥️ Şu anda ise web kodlayıcılığı yapıyorum (HTML,CSS,Javascript),
    - 🤔 Yardıma ihtiyacın var gibi gözüküyor,
-   - 💬 Bana e-posta hesaplarımdan sorularını sor,
+   - 💬 Bana e-posta adreslerimden sorularını sor,
      - huseyinncinar0@gmail.com
      - huseyinncinar0@gmail.com
      - huseyinncinar0@gmail.com
