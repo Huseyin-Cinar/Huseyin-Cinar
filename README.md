@@ -41,6 +41,8 @@ ___________________________________________________________________
   
   
 <a target="_blank" rel="noopener noreferrer" href="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&theme=dracula&count_private=true&rank=-?"><img src="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&theme=dracula&count_private=true&rank=-?" width="%100" height="150px" alt="stats" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&theme=dracula&count_private=true&rank=-?" style="max-width: 100%;"></a>
+
+<a href="https://activity-graph.herokuapp.com/graph?username=Huseyin-Cinar&theme=dracula"><img src="https://activity-graph.herokuapp.com/graph?username=Huseyin-Cinar&theme=dracula"></a>
 </details>
   
 <hr>
