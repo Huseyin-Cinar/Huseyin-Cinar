@@ -1,29 +1,31 @@
-### Selam Ben Hüseyin Diğer Adıyla Black Death#3957 👋
+# <p align="center">Selam Ben Hüseyin - Black Death#3957 👋</p>
 
 
-Burası **Hüseyin Çınar'ın** Bir ✨ _Tanıtım_ ✨ Deposudur.
+<p align="center">Burası <b>Hüseyin Çınar'ın</b> Bir ✨ <i>Tanıtım</i> ✨ Deposudur.</p><br>
 
 <details align="center" open>
   <summary>Profile Views</summary>
   <a align="center" target="_blank" rel="noopener noreferrer" href="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru"><img src="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru" width="400px" alt="Hüseyin" data-canonical-src="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru" style="max-width: 100%;"></a></details>
 
 ___________________________________________________________________
-Şu anda yaptığım bazı şeyler;
-
-- 🏠 Evden çalışıyorum,
-- 🤖 Discord botu yapmayı bıraktım ama özel isteklere hala yapıyorum,
-- 🖥️ Şu anda ise web kodlayıcılığı yapıyorum (HTML,CSS,Javascript),
-- 🤔 Yardıma ihtiyacın var gibi gözüküyor,
-- 💬 Bana huseyinncinar0@gmail.com'dan sorularını sor,
-- 📫 Bende sorunlarına çözüm bulayım,
-- 😄 Güvenli,
-- ⚡ Ve hızlı bir şekilde...
-- 💬 **Bağlantılarım;**
-- <a href="https://futuree.netlify.app" target="_blank">Web Sitem (The Future)</a>
-- <a href="https://www.sites.google.com/view/the-hsyn-world/ana-sayfa" target="_blank">Web Sitem</a>
-- <a href="https://futuree.netlify.app/dc" target="_blank">Discord Sunucum</a>
-- <a href="https://prohtmlcod.tr.gg/" target="_blank">HTML Kod Paylaşım Sitem</a>
-- <a href="https://procsscod.tr.gg/" target="_blank">CSS Kod Paylaşım Sitem</a>
+1. Şu anda yaptığım bazı şeyler;
+   - 🏠 Evden çalışıyorum,
+   - 🤖 Discord botu yapmayı bıraktım ama özel isteklere hala yapıyorum,
+   - 🖥️ Şu anda ise web kodlayıcılığı yapıyorum (HTML,CSS,Javascript),
+   - 🤔 Yardıma ihtiyacın var gibi gözüküyor,
+   - 💬 Bana e-posta hesaplarımdan sorularını sor,
+     - huseyinncinar0@gmail.com
+     - huseyinncinar0@gmail.com
+     - huseyinncinar0@gmail.com
+   - 📫 Bende sorunlarına çözüm bulayım,
+   - 😄 Güvenli,
+   - ⚡ Ve hızlı bir şekilde...
+   - 💬 **Bağlantılarım;**
+     - <a href="https://futuree.netlify.app" target="_blank">Web Sitem (The Future)</a>
+     - <a href="https://www.sites.google.com/view/the-hsyn-world/ana-sayfa" target="_blank">Web Sitem</a>
+     - <a href="https://futuree.netlify.app/dc" target="_blank">Discord Sunucum</a>
+     - <a href="https://prohtmlcod.tr.gg/" target="_blank">HTML Kod Paylaşım Sitem</a>
+     - <a href="https://procsscod.tr.gg/" target="_blank">CSS Kod Paylaşım Sitem</a>
 <hr>
 <details align="center" open>
   <summary>Discord Profilim</summary>
@@ -91,7 +93,19 @@ ___________________________________________________________________
 </details>
 <hr>
 
-### <h1>Sosyal Mekanlar</h1>
+
+## Sosyal Mekanlar
+   
+<br>
+
+2. Sosyal Medya Hesaplarım;
+   - Instagram
+     - [@huseyinn.cinar](https://instagram.com/huseyinn.cinar)
+   - Twitter
+     - [@Hseyinn59612876](https://twitter.com/Hseyinn59612876)
+   - Discord
+     - [Black Death#3957](https://discord.com/users/782246367204605953)  
+
 <br>
 <!--<img width="150px" height="25px" src="https://komarev.com/ghpvc/?username=Huseyin-Cinar&color=blue&style=plastic&label=Ziyaretçi+Sayısı">--> <img width="150px" height="30px" src="https://img.shields.io/github/followers/Huseyin-Cinar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Github">
 <img width="150px" height="30px" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC6TBeSGerkaoAtvzN8l3L7A?style=for-the-badge&label=YouTube">
