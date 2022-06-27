@@ -9,7 +9,7 @@
 
 ___________________________________________________________________
 1. Şu anda yaptığım bazı şeyler;
-   - 🏠 Evden çalışıyorum,
+   - 🏠 Evden çalışıyorum [The Future](https://github.com/The-Future-Software-Company) üzerinde[^1],
    - 🤖 Discord botu yapmayı bıraktım ama özel isteklere hala yapıyorum,
    - 🖥️ Şu anda ise web kodlayıcılığı yapıyorum (HTML,CSS,Javascript),
    - 🤔 Yardıma ihtiyacın var gibi gözüküyor,
@@ -25,7 +25,7 @@ ___________________________________________________________________
      - <a href="https://www.sites.google.com/view/the-hsyn-world/ana-sayfa" target="_blank">Web Sitem</a>
      - <a href="https://futuree.netlify.app/dc" target="_blank">Discord Sunucum</a>
      - <a href="https://prohtmlcod.tr.gg/" target="_blank">HTML Kod Paylaşım Sitem</a>
-     - <a href="https://procsscod.tr.gg/" target="_blank">CSS Kod Paylaşım Sitem</a>
+     - <a href="https://procsscod.tr.gg/" target="_blank">CSS Kod Paylaşım Sitem</a>   
 <hr>
 <details align="center" open>
   <summary>Discord Profilim</summary>
@@ -109,3 +109,5 @@ ___________________________________________________________________
 <br>
 <!--<img width="150px" height="25px" src="https://komarev.com/ghpvc/?username=Huseyin-Cinar&color=blue&style=plastic&label=Ziyaretçi+Sayısı">--> <img width="150px" height="30px" src="https://img.shields.io/github/followers/Huseyin-Cinar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Github">
 <img width="150px" height="30px" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC6TBeSGerkaoAtvzN8l3L7A?style=for-the-badge&label=YouTube">
+
+[^1]: The Future sahibi olduğum bir yazılım şirketidir. 
