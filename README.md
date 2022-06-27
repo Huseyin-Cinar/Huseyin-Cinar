@@ -38,7 +38,7 @@ ___________________________________________________________________
 <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=dark&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=dark&count_private=true" width="%100" height="150px" alt="stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=dark&count_private=true" style="max-width: 100%;"></a>
   
   
-<a target="_blank" rel="noopener noreferrer" href="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&theme=dark&count_private=true&rank=-?"><img src="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&theme=dark&count_private=true&rank=-?" width="%100" height="150px" alt="stats" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&theme=dark&count_private=true&rank=-?" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&theme=dark&count_private=true&rank=-?"><img src="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&theme=nord&count_private=true&rank=-?" width="%100" height="150px" alt="stats" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&theme=nord&count_private=true&rank=-?" style="max-width: 100%;"></a>
 </details>
   
 <hr>
