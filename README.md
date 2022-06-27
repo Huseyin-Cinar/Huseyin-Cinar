@@ -1,14 +1,14 @@
 # <p align="center">Selam Ben Hüseyin - Black Death#3957 👋</p>
 
 
-<p align="center">Burası <b>Hüseyin Çınar'ın</b> Bir ✨ <i>Tanıtım</i> ✨ Deposudur.</p><br>
+### <p align="center">Burası <b>Hüseyin Çınar'ın</b> Bir ✨ <i>Tanıtım</i> ✨ Deposudur.</p><br>
 
 <details align="center" open>
   <summary>Profile Views</summary>
   <a align="center" target="_blank" rel="noopener noreferrer" href="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru"><img src="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru" width="400px" alt="Hüseyin" data-canonical-src="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru" style="max-width: 100%;"></a></details>
 
 ___________________________________________________________________
-1. Şu anda yaptığım bazı şeyler;
+   Şu anda yaptığım bazı şeyler;
    - 🏠 Evden çalışıyorum [The Future](https://github.com/The-Future-Software-Company) üzerinde[^1],
    - 🤖 Discord botu yapmayı bıraktım ama özel isteklere hala yapıyorum,
    - 🖥️ Şu anda ise web kodlayıcılığı yapıyorum (HTML,CSS,Javascript),
@@ -98,7 +98,7 @@ ___________________________________________________________________
    
 <br>
 
-2. Sosyal Medya Hesaplarım;
+   Sosyal Medya Hesaplarım;
    - Instagram
      - [@huseyinn.cinar](https://instagram.com/huseyinn.cinar)
    - Twitter
