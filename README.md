@@ -95,6 +95,29 @@ ___________________________________________________________________
 </details>
 <hr>
 
+## Hoşgeldin
+
+```js
+window.onload = function() {pageLoaded()};
+
+function pageLoaded() {
+ 
+  var cinsiyet = prompt('Lütfen cinsiyetinizi girin:', 'Bay veya Bayan'),
+      isim = prompt('Lütfen isminizi girin:'),
+      soyisim = prompt('Lütfen soyisminizi girin:')
+  
+  if(cinsiyet==null) {cinsiyet = prompt('Lütfen cinsiyetinizi girin:', 'Bay veya Bayan')}
+  
+  if(isim==null) {isim = prompt('Lütfen isminizi girin:')}
+  
+  if(soyisim==null) {soyisim = prompt('Lütfen soyisminizi girin:')}
+  
+  if(cinsiyet!=null && isim!=null && soyisim!=null) {
+  alert(`${cinsiyet} ${isim} ${soyisim}, github profilime hoşgeldiniz!`)
+  }
+}
+```
+
 
 ## Sosyal Mekanlar
    
