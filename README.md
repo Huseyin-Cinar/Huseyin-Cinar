@@ -95,7 +95,7 @@ ___________________________________________________________________
 </details>
 <hr>
 
-## Hoşgeldin
+##  <img src="https://readme-typing-svg.herokuapp.com/?lines=Github+profilime+ho%C5%9Fgeldin!">
 
 ```js
 window.onload = function() {pageLoaded()};
@@ -134,5 +134,6 @@ function pageLoaded() {
 <br>
 <!--<img width="150px" height="25px" src="https://komarev.com/ghpvc/?username=Huseyin-Cinar&color=blue&style=plastic&label=Ziyaretçi+Sayısı">--> <img width="150px" height="30px" src="https://img.shields.io/github/followers/Huseyin-Cinar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Github">
 <img width="150px" height="30px" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC6TBeSGerkaoAtvzN8l3L7A?style=for-the-badge&label=YouTube">
+
 
 [^1]: The Future sahibi olduğum bir yazılım şirketidir. 
