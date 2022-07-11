@@ -106,13 +106,13 @@ function pageLoaded() {
       isim = prompt('Lütfen isminizi girin:'),
       soyisim = prompt('Lütfen soyisminizi girin:')
   
-  if(cinsiyet==null) {cinsiyet = prompt('Lütfen cinsiyetinizi girin:', 'Bay veya Bayan')}
+  if(cinsiyet==null || cinsiyet=='') {cinsiyet = prompt('Lütfen cinsiyetinizi girin:', 'Bay veya Bayan')}
   
-  if(isim==null) {isim = prompt('Lütfen isminizi girin:')}
+  if(isim==null || isim=='') {isim = prompt('Lütfen isminizi girin:')}
   
-  if(soyisim==null) {soyisim = prompt('Lütfen soyisminizi girin:')}
+  if(soyisim==null || soyisim=='') {soyisim = prompt('Lütfen soyisminizi girin:')}
   
-  if(cinsiyet!=null && isim!=null && soyisim!=null) {
+  if(cinsiyet!=null && isim!=null && soyisim!=null && cinsiyet!='' && isim!='' && soyisim!='') {
   alert(`${cinsiyet} ${isim} ${soyisim}, github profilime hoşgeldiniz!`)
   }
 }
