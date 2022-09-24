@@ -35,14 +35,14 @@ ___________________________________________________________________
   
   <details align="center" open>
   <summary>GitHub İstatistiklerim</summary>
-<a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=dracula"><img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=dracula" width="%100" height="150px" alt="stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=dracula" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=dracula&count_private=true"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=dracula&count_private=true" width="%100" height="150px" alt="stats" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=dracula&count_private=true" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=react&bg_color=0D1117"><img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=react&bg_color=0D1117" width="%100" height="150px" alt="stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=dracula" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=react&count_private=true&bg_color=0D1117"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=react&bg_color=0D1117&count_private=true" width="%100" height="150px" alt="stats" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=dracula&count_private=true" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=dracula&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=dracula&count_private=true" width="%100" height="150px" alt="stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=dracula&count_private=true" style="max-width: 100%;"></a>
   
   
 <a target="_blank" rel="noopener noreferrer" href="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&theme=dracula&count_private=true&rank=-?"><img src="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&theme=dracula&count_private=true&rank=-?" width="%100" height="150px" alt="stats" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&theme=dracula&count_private=true&rank=-?" style="max-width: 100%;"></a>
 
-<a href="https://activity-graph.herokuapp.com/graph?username=Huseyin-Cinar&theme=dracula"><img src="https://activity-graph.herokuapp.com/graph?username=Huseyin-Cinar&theme=dracula"></a>
+<a href="https://activity-graph.herokuapp.com/graph?username=Huseyin-Cinar&theme=dracula"><img src="https://activity-graph.herokuapp.com/graph?username=Huseyin-Cinar&theme=react&bg_color=0D1117"></a>
 </details>
   
 <hr>
