@@ -24,8 +24,7 @@ ___________________________________________________________________
      - <a href="https://futuree.netlify.app" target="_blank">Web Sitem (The Future)</a>
      - <a href="https://www.sites.google.com/view/the-hsyn-world/ana-sayfa" target="_blank">Web Sitem</a>
      - <a href="https://futuree.netlify.app/dc" target="_blank">Discord Sunucum</a>
-     - <a href="https://prohtmlcod.tr.gg/" target="_blank">HTML Kod Paylaşım Sitem</a>
-     - <a href="https://procsscod.tr.gg/" target="_blank">CSS Kod Paylaşım Sitem</a>   
+    
 <hr>
 <details align="center" open>
   <summary>Discord Profilim</summary>
