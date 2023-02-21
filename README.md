@@ -1,39 +1,39 @@
-# <p align="center">Selam Ben Hüseyin - Black Death#3957 👋</p>
+# <p align="center">Hi I'm Huseyin - Black Death#3957 👋</p>
 
 
-### <p align="center">Burası <b>Hüseyin Çınar'ın</b> Bir ✨ <i>Tanıtım</i> ✨ Deposudur.</p><br>
+### <p align="center">This is <b>Huseyin Cinar's</b> One ✨ <i>Promotion</i> ✨ It's a warehouse.</p><br>
 
 <details align="center" open>
   <summary>Profile Views</summary>
   <a align="center" target="_blank" rel="noopener noreferrer" href="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru"><img src="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru" width="400px" alt="Hüseyin" data-canonical-src="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru" style="max-width: 100%;"></a></details>
 
 ___________________________________________________________________
-   Şu anda yaptığım bazı şeyler;
-   - 🏠 Evden çalışıyorum [The Future](https://github.com/The-Future-Software-Company) üzerinde[^1],
-   - 🤖 Discord botu yapmayı bıraktım ama özel isteklere hala yapıyorum,
-   - 🖥️ Şu anda ise web kodlayıcılığı yapıyorum (HTML,CSS,Javascript),
-   - 🤔 Yardıma ihtiyacın var gibi gözüküyor,
-   - 💬 Bana e-posta adreslerimden sorularını sor,
+   Some things I'm doing right now;
+   - 🏠 I work from home [Future](https://github.com/The-Future-Software-Company) on[^1],
+   - 🤖 I stopped making Discord bots but I still do to special requests,
+   - 🖥️ Currently, I am web coding (HTML, CSS, Javascript),
+   - 🤔 Looks like you need help,
+   - 💬 Ask me questions from my e-mail addresses,
      - huseyinncinar0@gmail.com
      - huseyinncinar0@gmail.com
      - huseyinncinar0@gmail.com
-   - 📫 Bende sorunlarına çözüm bulayım,
-   - 😄 Güvenli,
-   - ⚡ Ve hızlı bir şekilde...
-   - 💬 **Bağlantılarım;**
-     - <a href="https://futuree.netlify.app" target="_blank">Web Sitem (The Future)</a>
-     - <a href="https://www.sites.google.com/view/the-hsyn-world/ana-sayfa" target="_blank">Web Sitem</a>
-     - <a href="https://futuree.netlify.app/dc" target="_blank">Discord Sunucum</a>
+   - 📫 Let me find a solution to your problems,
+   - 😄 Trustworthy,
+   - ⚡ And quickly...
+   - 💬 **My connections;**
+     - <a href="https://futuree.netlify.app" target="_blank">My Website (Future - Turkish)</a>
+     - <a href="https://futuree.netlify.app/en" target="_blank">My Website (Future - English)</a>
+     - <a href="https://futuree.netlify.app/dc" target="_blank">My Discord Server</a>
     
 <hr>
 <details align="center" open>
-  <summary>Discord Profilim</summary>
+  <summary>Discord Profile</summary>
 <div style="text-align: center;" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/782246367204605953?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=herhangi%20birşey%20yapmıyorum!"></img><a/></div><br>
 <!--<div style="text-align:center;display:none;" title="Github Stats"><a href="https://futuree.netlify.app"><img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&theme=merko"></img><a/></div><br></CENTER>--></details>
 <hr>
   
   <details align="center" open>
-  <summary>GitHub İstatistiklerim</summary>
+  <summary>My GitHub Statistics</summary>
 <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=react&bg_color=0D1117"><img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=react&bg_color=0D1117&hide_border=true" width="%100" height="150px" alt="stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=dracula" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=react&count_private=true&background=0D1117"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=react&background=0D1117&count_private=true&hide_border=true" width="%100" height="150px" alt="stats" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=dracula&count_private=true" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=dracula&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=react&count_private=true&hide_border=true&bg_color=0D1117" width="%100" height="150px" alt="stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=dracula&count_private=true" style="max-width: 100%;"></a>
@@ -47,7 +47,7 @@ ___________________________________________________________________
 <hr>
 
 <details align="center" open>
-<summary>İlgi Alanlarım</summary>
+<summary>My interests</summary>
   <div dir="auto">
     <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/dce088a54f53535588ef34797390e82129439b0ba37692c4650828b33941f27a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4631363532393f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/dce088a54f53535588ef34797390e82129439b0ba37692c4650828b33941f27a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4631363532393f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -94,35 +94,35 @@ ___________________________________________________________________
 </details>
 <hr>
 
-##  <img src="https://readme-typing-svg.herokuapp.com/?lines=Github+profilime+ho%C5%9Fgeldin!">
+##  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+github+profile">
 
 ```js
 window.onload = function() {pageLoaded()};
 
 function pageLoaded() {
  
-  var cinsiyet = prompt('Lütfen cinsiyetinizi girin:', 'Bay veya Bayan'),
-      isim = prompt('Lütfen isminizi girin:'),
-      soyisim = prompt('Lütfen soyisminizi girin:')
+  var gender = prompt('Enter your gendername:', 'Mr. veya Mrs.'),
+      name = prompt('Enter your name:'),
+      last_name = prompt('Enter your last name:')
   
-  if(cinsiyet==null || cinsiyet=='') {cinsiyet = prompt('Lütfen cinsiyetinizi girin:', 'Bay veya Bayan')}
+  if(gender==null || gender=='') {gender = prompt('Enter your gendername:', 'Mr. veya Mrs.')}
   
-  if(isim==null || isim=='') {isim = prompt('Lütfen isminizi girin:')}
+  if(name==null || name=='') {name = prompt('Enter your name:')}
   
-  if(soyisim==null || soyisim=='') {soyisim = prompt('Lütfen soyisminizi girin:')}
+  if(last_name==null || last_name=='') {last_name = prompt('Enter your last name:')}
   
-  if(cinsiyet!=null && isim!=null && soyisim!=null && cinsiyet!='' && isim!='' && soyisim!='') {
-  alert(`${cinsiyet} ${isim} ${soyisim}, github profilime hoşgeldiniz!`)
+  if(gender!=null && name!=null && last_name!=null && gender!='' && name!='' && last_name!='') {
+  alert(`${gender} ${name} ${last_name}, welcome to my github profile!`)
   }
 }
 ```
 
 
-## Sosyal Mekanlar
+## Social Spaces
    
 <br>
 
-   Sosyal Medya Hesaplarım;
+   My Social Media Accounts;
    - Instagram
      - [@huseyinn.cinar](https://instagram.com/huseyinn.cinar)
    - Twitter
