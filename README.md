@@ -32,8 +32,8 @@ ___________________________________________________________________
 <hr>
 <details align="center" open>
   <summary>Discord Profile</summary>
-<div style="text-align: center;" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/782246367204605953?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=herhangi%20birşey%20yapmıyorum!"></img><a/></div><br>
-<!--<div style="text-align:center;display:none;" title="Github Stats"><a href="https://futuree.netlify.app"><img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&theme=merko"></img><a/></div><br></CENTER>--></details>
+<div style="text-align: center;" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/782246367204605953?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=10px"></img><a/></div><br>
+<!--&idleMessage=herhangi%20birşey%20yapmıyorum!<div style="text-align:center;display:none;" title="Github Stats"><a href="https://futuree.netlify.app"><img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&theme=merko"></img><a/></div><br></CENTER>--></details>
 <hr>
   
   <details align="center" open>
@@ -139,4 +139,4 @@ function pageLoaded() {
 <img width="150px" height="30px" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC6TBeSGerkaoAtvzN8l3L7A?style=for-the-badge&label=YouTube">
 
 
-[^1]: The Future sahibi olduğum bir yazılım şirketidir. 
+[^1]: Future is a software company that I own. 
