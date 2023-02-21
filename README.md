@@ -101,7 +101,7 @@ window.onload = function() {pageLoaded()};
 
 function pageLoaded() {
  
-  var gender = prompt('Enter your gendername:', 'Mr. veya Mrs.'),
+  var gender = prompt('Enter your gendername:', 'Mr. or Mrs.'),
       name = prompt('Enter your name:'),
       last_name = prompt('Enter your last name:')
   
