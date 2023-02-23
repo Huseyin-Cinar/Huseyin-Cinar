@@ -13,7 +13,7 @@ ___________________________________________________________________
 
 ___________________________________________________________________
    Some things I'm doing right now;
-   - 👨‍💻 I'm 16 years old front-end Developer and I most improve myself on Cascading Style Sheets,
+   - :octocat: I'm 16 years old front-end Developer and I most improve myself on Cascading Style Sheets,
    - 🏠 I work from home on [Future](https://github.com/The-Future-Software-Company)[^1],
    - 🤖 I stopped making Discord bots but I still do to special requests,
    - 🖥️ Currently, I am website creating with HTML, CSS and Javascript,
