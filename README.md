@@ -5,7 +5,7 @@ ___________________________________________________________________
 # <p align="center">Hi I'm Huseyin - Black Death#3957 👋</p>
 
 
-#### <p align="center">This is <b>Huseyin Cinar's</b> an ✨ <i>CV</i> ✨ document.</p><br>
+#### <p align="center">This is <b>Huseyin Cinar's</b> an ✨ <i>CV</i> ✨ documentation.</p><br>
 
 <details align="center" open>
   <summary>Profile Views</summary>
@@ -14,7 +14,7 @@ ___________________________________________________________________
 ___________________________________________________________________
    Some things I'm doing right now;
    - 👨‍💻 I'm 16 years old front-end Developer and I most improve myself on Cascading Style Sheets,
-   - 🏠 I work from home [Future](https://github.com/The-Future-Software-Company) on[^1],
+   - 🏠 I work from home on [Future](https://github.com/The-Future-Software-Company)[^1],
    - 🤖 I stopped making Discord bots but I still do to special requests,
    - 🖥️ Currently, I am website creating with HTML, CSS and Javascript,
    - 🤔 Looks like you need help,
