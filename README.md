@@ -8,7 +8,7 @@ ___________________________________________________________________
 #### <p align="center">This is <b>Huseyin Cinar's</b> an ✨ <i>CV</i> ✨ documentation.</p><br>
 
 <details align="center" open>
-  <summary>Profile Views</summary>
+  <summary>Profile Views <code>maybe i increased it a little bit :|</code></summary>
   <a align="center" target="_blank" rel="noopener noreferrer" href="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru"><img src="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru" width="400px" alt="Hüseyin" data-canonical-src="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru" style="max-width: 100%;"></a></details>
 
 ___________________________________________________________________
