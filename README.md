@@ -5,7 +5,7 @@ ___________________________________________________________________
 # <p align="center">Hi I'm Huseyin - Black Death#3957 👋</p>
 
 
-#### <p align="center">This is <b>Huseyin Cinar's</b> an ✨ <i>CV</i> ✨ documentation.</p><br>
+#### <p align="center">This is <b>Huseyin Cinar's</b> a ✨ <i>CV</i> ✨ documentation.</p><br>
 
 <details align="center" open>
   <summary>Profile Views <code>maybe i increased it a little bit :)</code></summary>
