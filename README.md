@@ -15,15 +15,15 @@ ___________________________________________________________________
    Some things I'm doing right now;
    - :octocat: I'm 16 years old front-end Developer and I most improve myself on Cascading Style Sheets,
    - :shipit: I work from home on [Future](https://github.com/The-Future-Software-Company)[^1] in Turkiye,
-   - :basecamp: I stopped making Discord bots but I still do to special requests,
+   - :dependabot: I stopped making Discord bots but I still do to special requests,
    - :electron: Currently, I am website creating with HTML, CSS and Javascript,
-   - 🥰 Looks like you need help,
-   - 💬 Ask me questions from my e-mail addresses,
+   - :fishsticks: Looks like you need help,
+   - :basecamp: Ask me questions from my e-mail addresses,
      - huseyinncinar0@gmail.com
-   - 📫 Let me find a solution to your problems,
-   - 😄 Trustworthy,
-   - ⚡ And quickly...
-   - 💬 **My connections;**
+   - <img src="https://github.githubassets.com/images/icons/emoji/unicode/2611.png?v8" width="20px" height="20px"> Let me find a solution to your problems,
+   - <img src="https://github.githubassets.com/images/icons/emoji/unicode/2611.png?v8" width="20px" height="20px"> Trustworthy,
+   - <img src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png?v8" width="20px" height="20px"> And quickly...
+   - :basecamp: **My connections;**
      - <a href="https://futuree.netlify.app" target="_blank">My Website (Future - Turkish)</a>
      - <a href="https://futuree.netlify.app/en" target="_blank">My Website (Future - English)</a>
      - <a href="https://futuree.netlify.app/dc" target="_blank">My Discord Server</a>
