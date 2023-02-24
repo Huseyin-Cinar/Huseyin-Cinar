@@ -12,25 +12,25 @@ ___________________________________________________________________
   <a align="center" target="_blank" rel="noopener noreferrer" href="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru"><img src="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru" width="400px" alt="Hüseyin" data-canonical-src="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru" style="max-width: 100%;"></a></details>
 
 ___________________________________________________________________
-   Some things I'm doing right now;
-   - :octocat: I'm 16 years old Front-end Developer and I most improve myself on Cascading Style Sheets,
-   - :shipit: I work from home on [Future](https://github.com/The-Future-Software-Company)[^1] in Turkiye,
-   - :dependabot: I stopped making Discord bots but I still do to special requests,
-   - :electron: Currently, I am website creating with HTML, CSS and Javascript,
-   - :fishsticks: Looks like you need help,
-   - :basecamp: Ask me questions from my e-mail addresses,
-     - huseyinncinar0@gmail.com
-   - <img src="https://github.githubassets.com/images/icons/emoji/unicode/2611.png?v8" width="20px" height="20px"> Let me find a solution to your problems,
-   - <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f970.png?v8" width="20px" height="20px"> Trustworthy,
-   - <img src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png?v8" width="20px" height="20px"> And quickly...
+ **Some things I'm doing right now;**
+   - :octocat: **I'm 16 years old Front-end Developer and I most improve myself on Cascading Style Sheets,**
+   - :shipit: **I work from home on [Future](https://github.com/The-Future-Software-Company)[^1] in Turkiye,**
+   - :dependabot: **I stopped making Discord bots but I still do to special requests,**
+   - :electron: **Currently, I am website creating with HTML, CSS and Javascript,**
+   - :fishsticks: **Looks like you need help,**
+   - :basecamp: **Ask me questions from my e-mail addresses,**
+     - **huseyinncinar0@gmail.com**
+   - <img src="https://github.githubassets.com/images/icons/emoji/unicode/2611.png?v8" width="20px" height="20px"> **Let me find a solution to your problems,**
+   - <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f970.png?v8" width="20px" height="20px"> **Trustworthy,**
+   - <img src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png?v8" width="20px" height="20px"> **And quickly...**
    - :basecamp: **My connections;**
-     - <a href="https://futuree.netlify.app" target="_blank">My Website (Future - Turkish)</a>
-     - <a href="https://futuree.netlify.app/en" target="_blank">My Website (Future - English)</a>
-     - <a href="https://futuree.netlify.app/dc" target="_blank">My Discord Server</a>
+     - <a href="https://futuree.netlify.app" target="_blank">**My Website (Future - Turkish)**</a>
+     - <a href="https://futuree.netlify.app/en" target="_blank">**My Website (Future - English)**</a>
+     - <a href="https://futuree.netlify.app/dc" target="_blank">**My Discord Server**</a>
     
 <hr>
 <details align="center" open>
-  <summary>Discord Profile</summary>
+  <summary><Discord Profile</summary>
 <div style="text-align: center;" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/782246367204605953?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=10px"></img><a/></div><br>
 <!--https://instagram.fada1-13.fna.fbcdn.net/v/t51.2885-15/324387181_886124632524619_3821253639782888693_n.jpg?stp=dst-jpg_e35_p240x240&_nc_ht=instagram.fada1-13.fna.fbcdn.net&_nc_cat=107&_nc_ohc=2A1hFYFSeZ8AX_pbDeu&edm=AEw_LKABAAAA&ccb=7-5&ig_cache_key=MzAxNDIwODgwNjI5Nzc5NTA1Ng%3D%3D.2-ccb7-5&oh=00_AfAFtL0ncBch5WdgdRgoOiDWxI_3MCa0HiWYgh3nsdRpng&oe=63FC72AA&_nc_sid=c7f314,,,,,&idleMessage=herhangi%20birşey%20yapmıyorum!<div style="text-align:center;display:none;" title="Github Stats"><a href="https://futuree.netlify.app"><img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&theme=merko"></img><a/></div><br></CENTER>--></details>
 <hr>
