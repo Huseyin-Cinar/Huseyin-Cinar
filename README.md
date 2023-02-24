@@ -21,7 +21,7 @@ ___________________________________________________________________
    - :basecamp: Ask me questions from my e-mail addresses,
      - huseyinncinar0@gmail.com
    - <img src="https://github.githubassets.com/images/icons/emoji/unicode/2611.png?v8" width="20px" height="20px"> Let me find a solution to your problems,
-   - <img src="https://github.githubassets.com/images/icons/emoji/unicode/2611.png?v8" width="20px" height="20px"> Trustworthy,
+   - <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f970.png?v8" width="20px" height="20px"> Trustworthy,
    - <img src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png?v8" width="20px" height="20px"> And quickly...
    - :basecamp: **My connections;**
      - <a href="https://futuree.netlify.app" target="_blank">My Website (Future - Turkish)</a>
