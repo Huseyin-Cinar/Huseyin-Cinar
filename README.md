@@ -14,10 +14,10 @@ ___________________________________________________________________
 ___________________________________________________________________
    Some things I'm doing right now;
    - :octocat: I'm 16 years old front-end Developer and I most improve myself on Cascading Style Sheets,
-   - 🏠 I work from home on [Future](https://github.com/The-Future-Software-Company)[^1],
-   - 🤖 I stopped making Discord bots but I still do to special requests,
-   - 🖥️ Currently, I am website creating with HTML, CSS and Javascript,
-   - 🤔 Looks like you need help,
+   - :shipit: I work from home on [Future](https://github.com/The-Future-Software-Company)[^1] in Turkiye,
+   - :basecamp: I stopped making Discord bots but I still do to special requests,
+   - :electron: Currently, I am website creating with HTML, CSS and Javascript,
+   - 🥰 Looks like you need help,
    - 💬 Ask me questions from my e-mail addresses,
      - huseyinncinar0@gmail.com
    - 📫 Let me find a solution to your problems,
