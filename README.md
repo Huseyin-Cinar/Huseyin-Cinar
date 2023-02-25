@@ -31,7 +31,7 @@ ___________________________________________________________________
 <hr>
 <details align="center" open>
   <summary>Discord Profile</summary>
-<div style="text-align: center;" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/782246367204605953?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=10px"></img><a/></div><br>
+<div style="text-align: center;" title="Discord Profile"><a href="https://discord.com/users/782246367204605953"><img src="https://lanyard-profile-readme.vercel.app/api/782246367204605953?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=10px"></img><a/></div><br>
 <!--https://instagram.fada1-13.fna.fbcdn.net/v/t51.2885-15/324387181_886124632524619_3821253639782888693_n.jpg?stp=dst-jpg_e35_p240x240&_nc_ht=instagram.fada1-13.fna.fbcdn.net&_nc_cat=107&_nc_ohc=2A1hFYFSeZ8AX_pbDeu&edm=AEw_LKABAAAA&ccb=7-5&ig_cache_key=MzAxNDIwODgwNjI5Nzc5NTA1Ng%3D%3D.2-ccb7-5&oh=00_AfAFtL0ncBch5WdgdRgoOiDWxI_3MCa0HiWYgh3nsdRpng&oe=63FC72AA&_nc_sid=c7f314,,,,,&idleMessage=herhangi%20birşey%20yapmıyorum!<div style="text-align:center;display:none;" title="Github Stats"><a href="https://futuree.netlify.app"><img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&theme=merko"></img><a/></div><br></CENTER>--></details>
 <hr>
   
@@ -89,23 +89,5 @@ discord.Structures.extend('Message', Message => {
 });
 
 ```
-
-
-<!--## Social Spaces
-   
-<br>
-
-   My Social Media Accounts;
-   - Instagram
-     - [@huseyinn.cinar](https://instagram.com/huseyinn.cinar)
-   - Twitter
-     - [@Hseyinn59612876](https://twitter.com/Hseyinn59612876)
-   - Discord
-     - [Black Death#3957](https://discord.com/users/782246367204605953)  
-
-<br>
-<!--<img width="150px" height="25px" src="https://komarev.com/ghpvc/?username=Huseyin-Cinar&color=blue&style=plastic&label=Ziyaretçi+Sayısı">--><!-- <img width="150px" height="30px" src="https://img.shields.io/github/followers/Huseyin-Cinar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Github">
-<img width="150px" height="30px" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC6TBeSGerkaoAtvzN8l3L7A?style=for-the-badge&label=YouTube">-->
-
 
 [^1]: Future is a software company that I own. 
