@@ -91,7 +91,7 @@ discord.Structures.extend('Message', Message => {
 ```
 
 
-## Social Spaces
+<!--## Social Spaces
    
 <br>
 
@@ -104,8 +104,8 @@ discord.Structures.extend('Message', Message => {
      - [Black Death#3957](https://discord.com/users/782246367204605953)  
 
 <br>
-<!--<img width="150px" height="25px" src="https://komarev.com/ghpvc/?username=Huseyin-Cinar&color=blue&style=plastic&label=Ziyaretçi+Sayısı">--> <img width="150px" height="30px" src="https://img.shields.io/github/followers/Huseyin-Cinar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Github">
-<img width="150px" height="30px" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC6TBeSGerkaoAtvzN8l3L7A?style=for-the-badge&label=YouTube">
+<!--<img width="150px" height="25px" src="https://komarev.com/ghpvc/?username=Huseyin-Cinar&color=blue&style=plastic&label=Ziyaretçi+Sayısı">--><!-- <img width="150px" height="30px" src="https://img.shields.io/github/followers/Huseyin-Cinar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Github">
+<img width="150px" height="30px" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC6TBeSGerkaoAtvzN8l3L7A?style=for-the-badge&label=YouTube">-->
 
 
 [^1]: Future is a software company that I own. 
