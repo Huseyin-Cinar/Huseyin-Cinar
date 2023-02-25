@@ -14,7 +14,7 @@ ___________________________________________________________________
 ___________________________________________________________________
  **Some things I'm doing right now;**
    - :octocat: **I'm 16 years old Front-end Developer and I most improve myself on Cascading Style Sheets,**
-   - :shipit: **I am working on [Hack Club](https://github.com/hackclub) and [the Future](https://github.com/The-Future-Software-Company)[^1] from Home in Turkiye.,**
+   - :shipit: **I am working on [Hack Club](https://github.com/hackclub) and [the Future](https://github.com/The-Future-Software-Company)[^1] from Home in Turkiye,**
    - :dependabot: **I stopped making Discord bots but I still do to special requests,**
    - :electron: **Currently, I am website creating with HTML, CSS and Javascript,**
    - :fishsticks: **Looks like you need help,**
