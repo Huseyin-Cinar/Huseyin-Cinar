@@ -68,26 +68,26 @@ ___________________________________________________________________
 
 ##  <div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+github+profile"></div>
 
-```jsx
+```js
 
-function pageLoaded() {
- 
-  var gender = prompt('Enter your gendername:', 'Mr. or Mrs.'),
-      name = prompt('Enter your name:'),
-      last_name = prompt('Enter your last name:')
-  
-  if(gender==null || gender=='') {gender = prompt('Enter your gendername:', 'Mr. veya Mrs.')}
-  
-  if(name==null || name=='') {name = prompt('Enter your name:')}
-  
-  if(last_name==null || last_name=='') {last_name = prompt('Enter your last name:')}
-  
-  if(gender!=null && name!=null && last_name!=null && gender!='' && name!='' && last_name!='') {
-  alert(`${gender} ${name} ${last_name}, welcome to my github profile!`)
-  }
-}
+discord.Structures.extend('Message', Message => {
+    class ExtendedMessage extends Message {
+        reply(...args) {
+            const apiMessage = discord.APIMessage.create(this.channel, ...args).resolveData();
+            apiMessage.data.message_reference = {
+                message_id: this.id,
+                guild_id: this.guild.id
+            };
+            apiMessage.data.allowed_mentions = {
+                ...(apiMessage.data.allowed_mentions || {}),
+                replied_user: apiMessage.options.ping || false
+            };
+            return this.channel.send(apiMessage);
+        }
+    }
+    return ExtendedMessage;
+});
 
-pageLoaded()
 ```
 
 
