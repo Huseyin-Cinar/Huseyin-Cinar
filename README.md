@@ -39,12 +39,26 @@ ___________________________________________________________________
   
   <details align="center" open>
   <summary><code><i>My GitHub Statistics</i></code></summary>
-<a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=react&bg_color=0D1117"><img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=react&bg_color=0D1117&hide_border=true" width="%100" height="150px" alt="stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=dracula" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=react&count_private=true&background=0D1117"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=react&background=0D1117&count_private=true&hide_border=true" width="%100" height="150px" alt="stats" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=dracula&count_private=true" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=dracula&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=react&count_private=true&hide_border=true&bg_color=0D1117" width="%100" height="150px" alt="stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=dracula&count_private=true" style="max-width: 100%;"></a>
   
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=react&bg_color=0D1117&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
+  </picture>
   
-<a target="_blank" rel="noopener noreferrer" href="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&theme=dracula&count_private=true&rank=-?,-C"><img src="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&theme=dark_lover&count_private=true&rank=-?,-C" width="%100" height="150px" alt="stats" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&theme=dracula&count_private=true&rank=-?,-C" style="max-width: 100%;"></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=react&background=0D1117&count_private=true&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=github-light&count_private=true&hide_border=true">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=react&count_private=true&hide_border=true&bg_color=0D1117">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=github-light&count_private=true&hide_border=true">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&theme=dark_lover&count_private=true&rank=-?,-C">
+    <img src="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&theme=light&count_private=true&rank=-?,-C">
+  </picture>
 
 <!--<a style="display:none;" href="https://activity-graph.herokuapp.com/graph?username=Huseyin-Cinar&theme=dracula"><img src="https://activity-graph.herokuapp.com/graph?username=Huseyin-Cinar&theme=react&bg_color=0D1117&bg_color=0D1117"></a>-->
 </details>
