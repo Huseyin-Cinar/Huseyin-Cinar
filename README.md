@@ -5,7 +5,7 @@ ___________________________________________________________________
 # <p align="center">Hi <img width="30px" height="30px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">, I'm Huseyin - Black Death#3957</p>
 
 
-#### <p align="center">This is a <b>Huseyin Cinar's</b> ✨ <i>CV</i> ✨ documentation.</p><br>
+#### <p align="center">This is a <b>Huseyin Cinar's</b> <img width="20px" height="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png"> <i>CV</i> <img width="20px" height="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png"> documentation.</p><br>
 
 <details align="center" open>
   <summary>Profile Views <code>maybe i increased it a little bit :)</code></summary>
@@ -24,9 +24,9 @@ ___________________________________________________________________
    - <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f970.png?v8" width="20px" height="20px"> **Trustworthy,**
    - <img src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png?v8" width="20px" height="20px"> **And quickly...**
    - :basecamp: **My connections;**
-     - <a href="https://futuree.netlify.app" target="_blank">**My Website (Future - Turkish)**</a>
-     - <a href="https://futuree.netlify.app/en" target="_blank">**My Website (Future - English)**</a>
-     - <a href="https://futuree.netlify.app/dc" target="_blank">**My Discord Server**</a>
+     - <a href="https://futuree.netlify.app" target="_blank"><img src="https://futuree.netlify.app/resimler/futurelogo.png" width="20px" height="20px"> **My Website (Future - Turkish)**</a>
+     - <a href="https://futuree.netlify.app/en" target="_blank"><img src="https://futuree.netlify.app/resimler/futurelogo.png" width="20px" height="20px"> **My Website (Future - English)**</a>
+     - <a href="https://futuree.netlify.app/dc" target="_blank"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="20px" height="20px"> **My Discord Server**</a>
     
 <hr>
 <details align="center" open>
