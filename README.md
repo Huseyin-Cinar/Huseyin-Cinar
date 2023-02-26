@@ -2,7 +2,7 @@
 
 ___________________________________________________________________
 
-# <p align="center">Hi 👋, I'm Huseyin - Black Death#3957</p>
+# <p align="center">Hi <img width="30px" height="30px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">, I'm Huseyin - Black Death#3957</p>
 
 
 #### <p align="center">This is a <b>Huseyin Cinar's</b> ✨ <i>CV</i> ✨ documentation.</p><br>
