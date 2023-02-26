@@ -12,31 +12,33 @@ ___________________________________________________________________
   <a align="center" target="_blank" rel="noopener noreferrer" href="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru"><img src="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru" width="400px" alt="Hüseyin" data-canonical-src="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru" style="max-width: 100%;"></a></details>
 
 ___________________________________________________________________
- **Some things I'm doing right now;**
-   - :octocat: **I'm 16 years old Front-end Developer and I most improve myself on Cascading Style Sheets,**
-   - :shipit: **I am working on [Hack Club](https://github.com/hackclub) and [the Future](https://github.com/The-Future-Software-Company)[^1] from Home in Turkiye,**
-   - :dependabot: **I stopped making Discord bots but I still do to special requests,**
-   - :electron: **Currently, I am website creating with HTML, CSS and Javascript,**
-   - :fishsticks: **Looks like you need help,**
-   - :basecamp: **Ask me questions from my e-mail addresses,**
-     - **huseyinncinar0@gmail.com**
-   - <img src="https://github.githubassets.com/images/icons/emoji/unicode/2611.png?v8" width="20px" height="20px"> **Let me find a solution to your problems,**
-   - <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f970.png?v8" width="20px" height="20px"> **Trustworthy,**
-   - <img src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png?v8" width="20px" height="20px"> **And quickly...**
-   - :basecamp: **My connections;**
-     - <a href="https://futuree.netlify.app" target="_blank"><img src="https://futuree.netlify.app/resimler/futurelogo.png" width="20px" height="20px"> **My Website (Future - Turkish)**</a>
-     - <a href="https://futuree.netlify.app/en" target="_blank"><img src="https://futuree.netlify.app/resimler/futurelogo.png" width="20px" height="20px"> **My Website (Future - English)**</a>
-     - <a href="https://futuree.netlify.app/dc" target="_blank"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="20px" height="20px"> **My Discord Server**</a>
+### <div align="center">Some things I'm doing right now;</div>
+ 
+ 
+   - :octocat: ***I'm 16 years old Front-end Developer and I most improve myself on Cascading Style Sheets,***
+   - :shipit: ***I am working on [Hack Club](https://github.com/hackclub) and [the Future](https://github.com/The-Future-Software-Company)[^1] from Home in Turkiye,***
+   - :dependabot: ***I stopped making Discord bots but I still do to special requests,***
+   - :electron: ***Currently, I am website creating with HTML, CSS and Javascript,***
+   - :fishsticks: ***Looks like you need help,***
+   - :basecamp: ***Ask me questions from my e-mail addresses,***
+     - ***huseyinncinar0@gmail.com***
+   - <img src="https://github.githubassets.com/images/icons/emoji/unicode/2611.png?v8" width="20px" height="20px"> ***Let me find a solution to your problems,***
+   - <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f970.png?v8" width="20px" height="20px"> ***Trustworthy,***
+   - <img src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png?v8" width="20px" height="20px"> ***And quickly...***
+   - :basecamp: ***My connections;***
+     - <a href="https://futuree.netlify.app" target="_blank"><img src="https://futuree.netlify.app/resimler/futurelogo.png" width="20px" height="20px"> ***My Website (Future - Turkish)***</a>
+     - <a href="https://futuree.netlify.app/en" target="_blank"><img src="https://futuree.netlify.app/resimler/futurelogo.png" width="20px" height="20px"> ***My Website (Future - English)***</a>
+     - <a href="https://futuree.netlify.app/dc" target="_blank"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="20px" height="20px"> ***My Discord Server***</a>
     
 <hr>
 <details align="center" open>
-  <summary>Discord Profile</summary>
+  <summary><code><i>Discord Profile</i></code></summary>
 <div style="text-align: center;" title="Discord Profile"><a href="https://discord.com/users/782246367204605953"><img src="https://lanyard-profile-readme.vercel.app/api/782246367204605953?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=10px"></img><a/></div><br>
 <!--https://instagram.fada1-13.fna.fbcdn.net/v/t51.2885-15/324387181_886124632524619_3821253639782888693_n.jpg?stp=dst-jpg_e35_p240x240&_nc_ht=instagram.fada1-13.fna.fbcdn.net&_nc_cat=107&_nc_ohc=2A1hFYFSeZ8AX_pbDeu&edm=AEw_LKABAAAA&ccb=7-5&ig_cache_key=MzAxNDIwODgwNjI5Nzc5NTA1Ng%3D%3D.2-ccb7-5&oh=00_AfAFtL0ncBch5WdgdRgoOiDWxI_3MCa0HiWYgh3nsdRpng&oe=63FC72AA&_nc_sid=c7f314,,,,,&idleMessage=herhangi%20birşey%20yapmıyorum!<div style="text-align:center;display:none;" title="Github Stats"><a href="https://futuree.netlify.app"><img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&theme=merko"></img><a/></div><br></CENTER>--></details>
 <hr>
   
   <details align="center" open>
-  <summary>My GitHub Statistics</summary>
+  <summary><code><i>My GitHub Statistics</i></code></summary>
 <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=react&bg_color=0D1117"><img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=react&bg_color=0D1117&hide_border=true" width="%100" height="150px" alt="stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=dracula" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=react&count_private=true&background=0D1117"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=react&background=0D1117&count_private=true&hide_border=true" width="%100" height="150px" alt="stats" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=dracula&count_private=true" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=dracula&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=react&count_private=true&hide_border=true&bg_color=0D1117" width="%100" height="150px" alt="stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=dracula&count_private=true" style="max-width: 100%;"></a>
@@ -50,7 +52,7 @@ ___________________________________________________________________
 <hr>
 
 <details align="center" open>
-<summary>My interests</summary>
+  <summary><code><i>My interests</i></code></summary>
   <div dir="auto">
     | <code><img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></code> | <code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></code> | <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" style="max-width: 100%;"></code> | <code><img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&amp;logo=python&amp;logoColor=white" style="max-width: 100%;"></code> | <code><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" style="max-width: 100%;"></code> |
     <br><br>
