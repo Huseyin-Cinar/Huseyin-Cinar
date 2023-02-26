@@ -15,7 +15,7 @@ ___________________________________________________________________
 ### <div align="center">Some things I'm doing right now;</div>
  
  
-   - :octocat: ***I'm 16 years old Front-end Developer and I most improve myself on Cascading Style Sheets,***
+   - :octocat: ***I'm 16 years old Self-taught Front-end Developer and I most improve myself on Cascading Style Sheets,***
    - :shipit: ***I am working on [Hack Club](https://github.com/hackclub) and [the Future](https://github.com/The-Future-Software-Company)[^1] from Home in Turkiye,***
    - :dependabot: ***I stopped making Discord bots but I still do to special requests,***
    - :electron: ***Currently, I am website creating with HTML, CSS and Javascript,***
