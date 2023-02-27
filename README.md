@@ -5,7 +5,7 @@ ___________________________________________________________________
 # <p align="center">Hi <img width="30px" height="30px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">, I'm Huseyin - Black Death#3957</p>
 
 
-#### <p align="center">This is a <b>Huseyin Cinar's</b> <img width="20px" height="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png"> <i>CV</i> <img width="20px" height="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png"> documentation.</p><br>
+#### <p align="center">This is <b>Huseyin Cinar's</b> <img width="20px" height="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png"> <i>CV</i> <img width="20px" height="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png"> document.</p><br>
 
 <details align="center" open>
   <summary>Profile Views <code>maybe i increased it a little bit :)</code></summary>
@@ -41,8 +41,8 @@ ___________________________________________________________________
   <summary><code><i>My GitHub Statistics</i></code></summary>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=react&bg_color=0D1117&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=react&bg_color=0D1117&hide_border=true&custom_title=Huseyin+Cinar's+Github+Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&custom_title=Huseyin+Cinar's+Github+Stats">
   </picture>
   
   <picture>
