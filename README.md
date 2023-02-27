@@ -2,7 +2,7 @@
 
 ___________________________________________________________________
 
-# <p align="center">Hi <img width="30px" height="30px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">, I'm Huseyin - Black Death#3957</p>
+# <h1 align="center">Hi <img width="30px" height="30px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">, I'm Huseyin ^-^</h1>
 
 
 #### <p align="center">This is <b>Huseyin Cinar's</b> <img width="20px" height="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png"> <i>CV</i> <img width="20px" height="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png"> document.</p><br>
