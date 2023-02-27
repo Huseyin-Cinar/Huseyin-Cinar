@@ -42,7 +42,7 @@ ___________________________________________________________________
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=react&bg_color=0D1117&hide_border=true&custom_title=Huseyin+Cinar's+Github+Stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&custom_title=Huseyin+Cinar's+Github+Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&custom_title=Huseyin+Cinar's+Github+Stats&icon_color=79ff97&show_icons=true">
   </picture>
   
   <picture>
