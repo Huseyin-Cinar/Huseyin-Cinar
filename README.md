@@ -9,8 +9,8 @@
 <details align="center" open>
   <summary>Profile Views <code>maybe i increased it a little bit :)</code></summary>
   <a align="center" target="_blank" rel="noopener noreferrer" href="https://futuree.netlify.app/en"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru">
-    <img src="https://count.getloli.com/get/@Huseyin-Cinar?theme=rule34">
+    <source alt="profile_views" media="(prefers-color-scheme: dark)" srcset="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru">
+    <img alt="profile_views" src="https://count.getloli.com/get/@Huseyin-Cinar?theme=rule34">
   </picture></a></details>
 
 ___________________________________________________________________
@@ -35,7 +35,7 @@ ___________________________________________________________________
 <hr>
 <details align="center" open>
   <summary><code><i>Discord Profile</i></code></summary>
-<div style="text-align: center;" title="Discord Profile"><a href="https://discord.com/users/782246367204605953"><img src="https://lanyard-profile-readme.vercel.app/api/782246367204605953?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=10px"></img><a/></div><br>
+<div style="text-align: center;" title="Discord Profile"><a href="https://discord.com/users/782246367204605953"><img alt="discord_profile" src="https://lanyard-profile-readme.vercel.app/api/782246367204605953?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=10px"></img><a/></div><br>
 <!--https://twitter.com/Hseyinn59612876 https://instagram.fada1-13.fna.fbcdn.net/v/t51.2885-15/324387181_886124632524619_3821253639782888693_n.jpg?stp=dst-jpg_e35_p240x240&_nc_ht=instagram.fada1-13.fna.fbcdn.net&_nc_cat=107&_nc_ohc=2A1hFYFSeZ8AX_pbDeu&edm=AEw_LKABAAAA&ccb=7-5&ig_cache_key=MzAxNDIwODgwNjI5Nzc5NTA1Ng%3D%3D.2-ccb7-5&oh=00_AfAFtL0ncBch5WdgdRgoOiDWxI_3MCa0HiWYgh3nsdRpng&oe=63FC72AA&_nc_sid=c7f314,,,,,&idleMessage=herhangi%20birşey%20yapmıyorum!<div style="text-align:center;display:none;" title="Github Stats"><a href="https://futuree.netlify.app"><img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&theme=merko"></img><a/></div><br></CENTER>--></details>
 <hr>
   
@@ -43,23 +43,23 @@ ___________________________________________________________________
   <summary><code><i>My GitHub Statistics</i></code></summary>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=react&bg_color=0D1117&hide_border=true&custom_title=Huseyin+Cinar's+Github+Stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&custom_title=Huseyin+Cinar's+Github+Stats&icon_color=79ff97&show_icons=true">
+    <source alt="github_stats" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=react&bg_color=0D1117&hide_border=true&custom_title=Huseyin+Cinar's+Github+Stats">
+    <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&custom_title=Huseyin+Cinar's+Github+Stats&icon_color=79ff97&show_icons=true">
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=react&background=0D1117&count_private=true&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=github-light&count_private=true&hide_border=true">
+    <source alt="github_streak_stats" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=react&background=0D1117&count_private=true&hide_border=true">
+    <img alt="github_langs" src="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=github-light&count_private=true&hide_border=true">
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=react&count_private=true&hide_border=true&bg_color=0D1117">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=github-light&count_private=true&hide_border=true">
+    <source alt="github_stats" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=react&count_private=true&hide_border=true&bg_color=0D1117">
+    <img alt="github_langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=github-light&count_private=true&hide_border=true">
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&theme=dark_lover&count_private=true&rank=-?,-C">
-    <img src="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&theme=light&count_private=true&rank=-?,-C">
+    <source alt="github_trophy" media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&theme=dark_lover&count_private=true&rank=-?,-C">
+    <img alt="github_trophy" src="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&theme=light&count_private=true&rank=-?,-C">
   </picture>
 
 <!--<a style="display:none;" href="https://activity-graph.herokuapp.com/graph?username=Huseyin-Cinar&theme=dracula"><img src="https://activity-graph.herokuapp.com/graph?username=Huseyin-Cinar&theme=react&bg_color=0D1117&bg_color=0D1117"></a>-->
