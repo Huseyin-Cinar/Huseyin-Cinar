@@ -30,7 +30,7 @@ ___________________________________________________________________
    - <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f970.png?v8" width="20px" height="20px"> ***Trustworthy,***
    - <img src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png?v8" width="20px" height="20px"> ***And quickly...***
    - :basecamp: ***My connections;***
-     - <a href="https://huseyincinar.netlify.app" target="_blank"><img src="https://avatars.githubusercontent.com/u/84516708?s=20&v=4"> ***Personal Website***</a>
+     - <a href="https://huseyincinar.netlify.app" target="_blank"><img src="https://avatars.githubusercontent.com/u/84516708?s=20&v=4" width="20px" height="20px"> ***Personal Website***</a>
      - <a href="https://futuree.netlify.app" target="_blank"><img src="https://futuree.netlify.app/resimler/futurelogo.png" width="20px" height="20px"> ***Website of Future (Turkish)***</a>
      - <a href="https://futuree.netlify.app/en" target="_blank"><img src="https://futuree.netlify.app/resimler/futurelogo.png" width="20px" height="20px"> ***Website of Future (English)***</a>
      - <a href="https://futuree.netlify.app/fr" target="_blank"><img src="https://futuree.netlify.app/resimler/futurelogo.png" width="20px" height="20px"> ***Website of Future (Franch)***</a>
