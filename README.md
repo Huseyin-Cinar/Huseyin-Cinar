@@ -21,6 +21,7 @@ ___________________________________________________________________
    - :shipit: ***I am working on [Hack Club](https://github.com/hackclub) and [the Future](https://github.com/thefuture-org)[^1] from Home in Turkiye,***
    - <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f320.png?v8" width="25px" height="25px"> ***I can speaking <img src="https://futuree.netlify.app/resimler/en-flag.svg" width="16" height="11">English, <img src="https://futuree.netlify.app/resimler/tr-flag.svg" width="16" height="11">Turkish and a little bit <img src="https://futuree.netlify.app/resimler/de_flag.png" width="16" height="10">German.***
    - :dependabot: ***I stopped making Discord bots but I still do to special requests,***
+   - <img src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png?v8" width="20px" height="20px"> ***You can find all my links for advertising and collaborations [here](https://futuree.netlify.app/feedback),***
    - :electron: ***Currently, I am website creating with HTML, CSS and Javascript,***
    - :fishsticks: ***Looks like you need help,***
    - :basecamp: ***Ask me questions from my e-mail addresses,***
