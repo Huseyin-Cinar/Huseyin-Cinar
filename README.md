@@ -40,8 +40,8 @@ ___________________________________________________________________
   <summary><code><i>Discord Profile</i></code></summary>
 <div align="center">
  <picture>
-    <source alt="discord_profile" media="(prefers-color-scheme: dark)" srcset="https://lanyard-profile-readme.vercel.app/api/782246367204605953?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px">
-    <img alt="discord_profile" src="https://lanyard-profile-readme.vercel.app/api/782246367204605953?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=10px">
+    <source alt="discord_profile" media="(prefers-color-scheme: dark)" srcset="https://lanyard-profile-readme.vercel.app/api/782246367204605953?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=I'm+probably+writing+code+on+Github.">
+    <img alt="discord_profile" src="https://lanyard-profile-readme.vercel.app/api/782246367204605953?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=I'm+probably+writing+code+on+Github.">
   </picture>
  </div>
 <br>
