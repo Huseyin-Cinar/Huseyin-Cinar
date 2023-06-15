@@ -30,11 +30,11 @@ ___________________________________________________________________
    - <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f970.png?v8" width="20px" height="20px"> ***Trustworthy,***
    - <img src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png?v8" width="20px" height="20px"> ***And quickly...***
    - :basecamp: ***My connections;***
-     - <a href="https://huseyincinar.netlify.app" target="_blank"><img src="https://avatars.githubusercontent.com/u/84516708?s=20&v=4" width="20px" height="20px"> ***Personal Website***</a>
-     - <a href="https://futuree.netlify.app" target="_blank"><img src="https://futuree.netlify.app/resimler/futurelogo.png" width="20px" height="20px"> ***Website of Future (Turkish)***</a>
-     - <a href="https://futuree.netlify.app/en" target="_blank"><img src="https://futuree.netlify.app/resimler/futurelogo.png" width="20px" height="20px"> ***Website of Future (English)***</a>
-     - <a href="https://futuree.netlify.app/fr" target="_blank"><img src="https://futuree.netlify.app/resimler/futurelogo.png" width="20px" height="20px"> ***Website of Future (Franch)***</a>
-     - <a href="https://futuree.netlify.app/dc" target="_blank"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="20px" height="20px"> ***My Discord Server***</a>
+     - <a href="https://huseyincinar.netlify.app" target="_blank"><img src="https://avatars.githubusercontent.com/u/84516708?s=20&v=4" width="20px" height="20px"> ***Personal website***</a>
+     - <a href="https://futuree.netlify.app" target="_blank"><img src="https://futuree.netlify.app/resimler/futurelogo.png" width="20px" height="20px"> ***Website of the Future (Türkçe)***</a>
+     - <a href="https://futuree.netlify.app/en" target="_blank"><img src="https://futuree.netlify.app/resimler/futurelogo.png" width="20px" height="20px"> ***Website of the Future (English)***</a>
+     - <a href="https://futuree.netlify.app/fr" target="_blank"><img src="https://futuree.netlify.app/resimler/futurelogo.png" width="20px" height="20px"> ***Website of the Future (Français)***</a>
+     - <a href="https://futuree.netlify.app/dc" target="_blank"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="20px" height="20px"> ***Discord server***</a>
     
 <hr>
 <details align="center" open>
@@ -94,7 +94,7 @@ ___________________________________________________________________
 </details>
 <hr>
 
-##  <div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+github+profile"></div>
+##  <div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=DISCORD.JS@v12-v13+and+NODE.JS"></div>
 
 ```js
 
@@ -118,4 +118,4 @@ discord.Structures.extend('Message', Message => {
 
 ```
 
-[^1]: Future is a software company that I own. 
+[^1]: Future is a software company and website that I own. 
