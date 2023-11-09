@@ -94,7 +94,6 @@ ___________________________________________________________________
 </details>
 <hr>
 
-##  <div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=DISCORD.JS@v12-v13+and+NODE.JS"></div>
 
 ```js
 
