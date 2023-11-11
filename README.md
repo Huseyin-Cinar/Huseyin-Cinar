@@ -95,8 +95,8 @@ My favorite color is **blue** and I am sincere in everyday life.
   <summary><code><i>Discord Profile</i></code></summary>
 <div align="center">
  <picture>
-    <source alt="discord_profile" media="(prefers-color-scheme: dark)" srcset="https://lanyard-profile-readme.vercel.app/api/782246367204605953?theme=dark&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=I'm+probably+writing+code+on+Github.">
-    <img alt="discord_profile" src="https://lanyard-profile-readme.vercel.app/api/782246367204605953?theme=light&bg=809ecf&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=I'm+probably+writing+code+on+Github.">
+    <source alt="discord_profile" media="(prefers-color-scheme: dark)" srcset="https://lanyard-profile-readme.vercel.app/api/782246367204605953?theme=dark&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=I'm+probably+studying.">
+    <img alt="discord_profile" src="https://lanyard-profile-readme.vercel.app/api/782246367204605953?theme=light&bg=809ecf&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=I'm+probably+studying.">
   </picture>
  </div>
 <br>
