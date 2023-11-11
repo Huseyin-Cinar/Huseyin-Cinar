@@ -68,6 +68,7 @@ I will put here my **year-end grades** that I have received so far. (these grade
 I have about 10 or so websites, but of course **these are amateur**, but I also have a github organization called [**Future**](https://github.com/thefuture-org/), and I also contribute on [**Hack Club**](https://github.com/hackclub).
 
 I have an amateur **artificial intelligence** made with **python** consisting of about **2000 lines** called **"zeus"**.
+<img src="./zeus.png" width="50%" height="50%">
 
 And you can find my personal website [**here**](https://huseyincinar.netlify.app).
 
