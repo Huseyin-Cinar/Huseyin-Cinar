@@ -1,24 +1,22 @@
-<a href="https://futuree.netlify.app/en" target="_blank"><img src="https://raw.githubusercontent.com/Huseyin-Cinar/Huseyin-Cinar/main/ban.png" alt="MasterHead" style="max-width: 100%;"></a>
+<!--<a href="https://futuree.netlify.app/en" target="_blank"><img src="https://raw.githubusercontent.com/Huseyin-Cinar/Huseyin-Cinar/main/ban.png" alt="MasterHead" style="max-width: 100%;"></a>
 <!--https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966--> 
 
-# <h1 align="center">Hi <img width="30px" height="30px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">, I'm Huseyin ^-^</h1>
+<!--<h1 align="center">Hi <img width="30px" height="30px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">, I'm Huseyin ^-^</h1>
 
-
-#### <p align="center">This is <b>Huseyin Cinar's</b> <img width="20px" height="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png"> <i>CV</i> <img width="20px" height="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png"> document.</p><br>
-
-<details align="center" open>
+<!--<details align="center" open>
   <summary>Profile Views <code>maybe i increased it a little bit :)</code></summary>
   <a align="center" target="_blank" rel="noopener noreferrer" href="https://futuree.netlify.app/en"><picture>
     <source alt="profile_views" media="(prefers-color-scheme: dark)" srcset="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru">
     <img alt="profile_views" src="https://count.getloli.com/get/@Huseyin-Cinar?theme=rule34">
-  </picture></a></details>
+  </picture></a></details>-->
+ 
+  
+ <!--<h3 align="center">Some things I'm doing these days;</h3>
+ <br>
 
-___________________________________________________________________
-### <div align="center">Some things I'm doing right now;</div>
- 
- 
-   - :octocat: ***I'm 17 years old Self-taught Front-end Developer and I most improve myself on Cascading Style Sheets,***
-   - :shipit: ***I am working on [Hack Club](https://github.com/hackclub) and [the Future](https://github.com/thefuture-org)[^1] from Home in Turkiye,***
+   |
+   - :octocat: _17-year-old full-stack web developer, especially Cascading Style Sheets_
+   - :shipit: _Projects Future and Hack Club_
    - <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f320.png?v8" width="25px" height="25px"> ***I can speaking <img src="https://futuree.netlify.app/resimler/en-flag.svg" width="16" height="11">English, <img src="https://futuree.netlify.app/resimler/tr-flag.svg" width="16" height="11">Turkish and a little bit <img src="https://futuree.netlify.app/resimler/de_flag.png" width="16" height="10">German.***
    - :dependabot: ***I stopped making Discord bots but I still do to special requests,***
    - <img src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png?v8" width="20px" height="20px"> ***You can find all my links for advertising and collaborations [here](https://futuree.netlify.app/feedback),***
@@ -35,6 +33,49 @@ ___________________________________________________________________
      - <a href="https://futuree.netlify.app/en" target="_blank"><img src="https://futuree.netlify.app/resimler/futurelogo.png" width="20px" height="20px"> ***Website of the Future (English)***</a>
      - <a href="https://futuree.netlify.app/fr" target="_blank"><img src="https://futuree.netlify.app/resimler/futurelogo.png" width="20px" height="20px"> ***Website of the Future (Français)***</a>
      - <a href="https://futuree.netlify.app/dc" target="_blank"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="20px" height="20px"> ***Discord server***</a>
+    -->
+
+# Welcome to Me
+
+Hi! I'm Huseyin. 17-year-old **full-stack web developer**, especially Cascading Style Sheets. Currently a **high school** student. Below is some information **about me** and below that some of my **repos**, enjoy!
+
+<br>
+
+## Education
+
+Yes, I am currently an **11th grade student** at Farabi Anatolian High School. At the end of high school, I am thinking of studying **software engineering**.
+
+I will put here my **year-end grades** that I have received so far. (these grades are evaluated out of 100)
+
+> **Grade 4:** 96,8486
+
+> **Grade 5:** 97,0634
+
+> **Grade 6:** 95,5524
+
+> **Grade 7:** 96,4476
+
+> **Grade 8:** 100
+ 
+> **Grade 9:** 97,9345
+
+> **Grade 10:** 99,5858
+
+<br>
+
+## Projects
+
+I have about 10 or so websites, but of course **these are amateur**, but I also have a github organization called [**Future**](https://github.com/thefuture-org/), and I also contribute on [**Hack Club**](https://github.com/hackclub).
+
+And you can find my personal website [**here**](https://huseyincinar.netlify.app).
+
+> **Note:** I can't devote much time to my projects because my classes are very busy at the moment, so forgive me if you find a mistake.
+
+<br>
+
+## Other
+
+Yes, this is the part that makes up **"me"**.
     
 <hr>
 <details align="center" open>
@@ -92,29 +133,3 @@ ___________________________________________________________________
         
   </div>
 </details>
-<hr>
-
-
-```js
-
-discord.Structures.extend('Message', Message => {
-    class ExtendedMessage extends Message {
-        reply(...args) {
-            const apiMessage = discord.APIMessage.create(this.channel, ...args).resolveData();
-            apiMessage.data.message_reference = {
-                message_id: this.id,
-                guild_id: this.guild.id
-            };
-            apiMessage.data.allowed_mentions = {
-                ...(apiMessage.data.allowed_mentions || {}),
-                replied_user: apiMessage.options.ping || false
-            };
-            return this.channel.send(apiMessage);
-        }
-    }
-    return ExtendedMessage;
-});
-
-```
-
-[^1]: Future is a software company and website that I own. 
