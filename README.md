@@ -1,4 +1,3 @@
-
 # Welcome to Me
 
 Hi! I'm Huseyin. 17-year-old **full-stack web developer**, especially Cascading Style Sheets. Currently a **high school** student. Below is some information **about me** and below that some of my **repos**, enjoy!
