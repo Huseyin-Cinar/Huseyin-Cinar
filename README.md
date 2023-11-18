@@ -67,7 +67,7 @@ My favorite color is **blue** and I am sincere in everyday life.
 <hr>
   
   <details align="center" close>
-  <summary><code><i>My GitHub Statistics</i></code></summary>
+  <summary><code><i>GitHub Statistics</i></code></summary>
   
   <picture>
     <source alt="github_stats" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=react&bg_color=0D1117&hide_border=true&custom_title=Huseyin+Cinar's+Github+Stats">
@@ -89,7 +89,7 @@ My favorite color is **blue** and I am sincere in everyday life.
 <hr>
 
 <details align="center" close>
-  <summary><code><i>My interests</i></code></summary><br>
+  <summary><code><i>Interests</i></code></summary><br>
   <div dir="auto">
     | <code><img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></code> | <code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></code> | <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" style="max-width: 100%;"></code> | <code><img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&amp;logo=python&amp;logoColor=white" style="max-width: 100%;"></code> | <code><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" style="max-width: 100%;"></code> |
     <br><br>
